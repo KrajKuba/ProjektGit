@@ -1,1 +1,6 @@
-// This is the Controler class file
+public class Controler {
+    public void control() {
+        System.out.println("Hello from Controler!");
+    }
+}
+

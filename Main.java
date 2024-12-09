@@ -1,1 +1,5 @@
-// This is the Main class file
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello from Main!");
+    }
+}
